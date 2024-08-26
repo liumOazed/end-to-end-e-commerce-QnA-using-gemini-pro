@@ -1,1 +1,1 @@
-# end-to-end-project-using-google-palm
+# end-to-end-project-using-Gemini-Pro
